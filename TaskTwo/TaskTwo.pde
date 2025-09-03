@@ -1,0 +1,10 @@
+String teachername = "Tess Løvgreen";
+int daysInYear = 365;
+String cityName = "København";
+boolean isCapital = true;
+int minutesInDay = 60*24;
+float priceOnSale = 22.12;
+String greeting = ("Hej, jeg heddder "+teachername);
+boolean weekend = false;
+float mathPiece = 2.2 + 33;
+char myFirstLetter = 'S';
